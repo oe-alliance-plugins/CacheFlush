@@ -1,11 +1,9 @@
-from __future__ import absolute_import
 # for localized messages
 from . import _
 #################################################################################
 #
 #    Plugin for Dreambox-Enigma2
 #    version:
-VERSION = "1.17"
 #    Coded by shamann & ims (c)2012 as ClearMem on basic idea by moulikpeta
 #	latest modyfication by ims:
 #	- ngettext, getMemory, freeMemory, WHERE_PLUGINMENU, Info, translate
@@ -29,6 +27,8 @@ from Components.config import ConfigSubsection, config, ConfigSelection
 
 config.plugins.CacheFlush = ConfigSubsection()
 config.plugins.CacheFlush.where = ConfigSelection(default="0", choices=[("0", _("plugins")), ("1", _("menu-system")), ("2", _("extensions")), ("3", _("event info"))])
+
+VERSION = "1.17"
 
 
 def startSetup(menuid, **kwargs):

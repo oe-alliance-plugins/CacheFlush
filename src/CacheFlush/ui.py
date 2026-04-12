@@ -1,10 +1,8 @@
-from __future__ import absolute_import
-from __future__ import print_function
 # for localized messages
 from . import _
 
 from Screens.Screen import Screen
-from Components.ConfigList import ConfigList, ConfigListScreen
+from Components.ConfigList import ConfigListScreen
 from Components.config import ConfigYesNo, ConfigSelection, ConfigInteger, config, getConfigListEntry
 from Components.ActionMap import ActionMap
 from Components.Label import Label
