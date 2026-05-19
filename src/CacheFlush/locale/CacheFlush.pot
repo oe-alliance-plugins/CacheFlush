@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the CacheFlush package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CacheFlush\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-12 21:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ../ui.py:25 ../ui.py:32
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ui.py:40
+#, python-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ui.py:136
+msgid "Auto timeout"
+msgstr ""
+
+#: ../ui.py:139
+msgid "Auto timeout (5-150min)"
+msgstr ""
+
+#: ../plugin.py:53
+msgid "Automatic cache flushing"
+msgstr ""
+
+#: ../ui.py:142
+msgid "Cache drop type"
+msgstr ""
+
+#: ../ui.py:335 ../ui.py:357
+msgid "CacheFlush Info"
+msgstr ""
+
+#: ../ui.py:272
+msgid "CacheFlush Status"
+msgstr ""
+
+#: ../ui.py:116 ../ui.py:343
+msgid "Cancel"
+msgstr ""
+
+#: ../ui.py:143
+msgid "Clean \"dirty\" cache too"
+msgstr ""
+
+#: ../ui.py:117 ../ui.py:345
+msgid "Clear Now"
+msgstr ""
+
+#: ../ui.py:44
+msgid "Default"
+msgstr ""
+
+#: ../ui.py:147
+msgid "Display plugin in"
+msgstr ""
+
+#: ../ui.py:134
+msgid "Enable CacheFlush"
+msgstr ""
+
+#: ../ui.py:205
+msgid "Free:"
+msgstr ""
+
+#: ../ui.py:118
+msgid "Info"
+msgstr ""
+
+#: ../ui.py:201
+msgid "MB"
+msgstr ""
+
+#: ../ui.py:291
+msgid "Mem cleared"
+msgstr ""
+
+#: ../ui.py:201
+msgid "Memory:"
+msgstr ""
+
+#: ../ui.py:344
+msgid "Refresh"
+msgstr ""
+
+#: ../ui.py:115
+msgid "Save"
+msgstr ""
+
+#: ../plugin.py:37 ../ui.py:104 ../ui.py:130
+msgid "Setup CacheFlush"
+msgstr ""
+
+#: ../ui.py:145
+msgid "Show info on screen"
+msgstr ""
+
+#: ../ui.py:278
+msgid "Started"
+msgstr ""
+
+#: ../ui.py:261
+msgid "Starting"
+msgstr ""
+
+#: ../ui.py:280
+msgid "Stopped"
+msgstr ""
+
+#: ../ui.py:137
+msgid "Time of info message"
+msgstr ""
+
+#: ../ui.py:140
+msgid "Time of info message (1-10sec)"
+msgstr ""
+
+#: ../ui.py:149
+msgid "Uncached memory size"
+msgstr ""
+
+#: ../ui.py:124
+#, python-format
+msgid "Uncached memory: %s kB,   ( default: %s kB )"
+msgstr ""
+
+#: ../ui.py:203
+msgid "Used:"
+msgstr ""
+
+#: ../ui.py:20
+msgid "dentries and inodes"
+msgstr ""
+
+#: ../plugin.py:29
+msgid "event info"
+msgstr ""
+
+#: ../plugin.py:29
+msgid "extensions"
+msgstr ""
+
+#: ../plugin.py:29
+msgid "menu-system"
+msgstr ""
+
+#: ../ui.py:20
+msgid "pagecache"
+msgstr ""
+
+#: ../ui.py:20
+msgid "pagecache, dentries and inodes"
+msgstr ""
+
+#: ../plugin.py:29
+msgid "plugins"
+msgstr ""
